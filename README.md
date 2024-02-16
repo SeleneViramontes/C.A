@@ -5,6 +5,6 @@ Selene Viramontes Ureño
 
 ## ACTIVIDAD 1
 -P01-hola-mundo
--P02-area-circulo.py
--P03-area-triangulo.py
--P04-paga-trabajador.py
+-P02-area-circulo
+-P03-area-triangulo
+-P04-paga-trabajador

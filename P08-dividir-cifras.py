@@ -3,7 +3,7 @@
 import os; os.system("cls")
 print("Dividiendo en unidades, decenas, centenas, un numero entero\n")
 
-num= int(input("Dame un numero entero de 3 cifras: "))
+num= int(input("Dame un numero entero de 4 cifras: "))
 
 unidades=num%10
 num//=10

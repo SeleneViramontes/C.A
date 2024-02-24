@@ -25,6 +25,7 @@ Selene Viramontes Ureño
 - P14-numero-suerte
 
 ## Actividad 3
-- P015-verificar-numero
-- P016-verificar-suma
-- P017-convertir-temperatura
+- P15-verificar-numero
+- P16-verificar-suma
+- P17-convertir-temperatura
+- P18-paga-trabajador

@@ -23,3 +23,8 @@ Selene Viramontes Ureño
 - P12-volumen-cilindro
 - P13-calculo-tiempo
 - P14-numero-suerte
+
+## Actividad 3
+- P015-verificar-numero
+- P016-verificar-suma
+- P017-convertir-temperatura

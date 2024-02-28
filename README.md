@@ -29,3 +29,10 @@ Selene Viramontes Ureño
 - P16-verificar-suma
 - P17-convertir-temperatura
 - P18-paga-trabajador
+
+## Actividad 4
+- P19-verificando-suma
+- P20-ley-newton
+- P21-aceptar-estudiante
+- P21-aceptar-estudiante-v2
+- P22-tipo-angulo

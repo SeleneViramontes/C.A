@@ -16,7 +16,7 @@ elif n1+n3 == n2 :
 elif n2+n3 == n1 :
     print(f"Caso 3 : {n2} + {n3} = {n1}")
 elif n1==n2==n3 :
-    print(f"Caso 4 : {n1} + {n2} = {n3}")
+    print(f"Caso 4 : {n1} = {n2} = {n3}")
 else :
     print("Caso 5 : Son diferentes y no se suman")
 

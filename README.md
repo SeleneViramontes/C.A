@@ -37,3 +37,12 @@ Selene Viramontes Ureño
 - P21-aceptar-estudiante-v2
 - P22-tipo-angulo
 
+## Tarea 2
+
+
+
+## Actividad 5
+- P29-numerol-a-100
+- P30-numero100-а-1
+- P31-numero-1-200-10
+- P32-numero-suma-100

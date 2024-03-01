@@ -51,3 +51,4 @@ Selene Viramontes Ureño
 - P30-numero100-а-1
 - P31-numero-1-200-10
 - P32-numero-suma-100
+- P33-conteo-numeros

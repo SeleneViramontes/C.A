@@ -6,7 +6,6 @@ print("Universidad patito SA de CV")
 print("Validacion de inscripcion \n")
 
 nombre=input("Dame tu nombre ?")
-
 edad=int(input("Dame tu edad ?"))
 
 if edad>=18:

@@ -43,7 +43,7 @@ Selene Viramontes Ureño
 - P25-dia-de-la-semana
 - P26-numeros-romanos
 - P27-calculo-de-notas
-- P28-aceptar-estudiante-v2
+- P28-aceptar-estudiante-v22
 
 
 ## Actividad 5

@@ -3,7 +3,7 @@
 
 import os; os.system("cls")
 
-print("Calculando el proimedio de 5 calificaciones\n")
+print("Calculando el promedio de 5 calificaciones\n")
 print("Dame 5 calificaciones separadas por espacio (pueden tener decimales) :")
 
 c1, c2, c3, c4, c5=input().split()

@@ -52,3 +52,11 @@ Selene Viramontes Ureño
 - P31-numero-1-200-10
 - P32-numero-suma-100
 - P33-conteo-numeros
+
+## Tarea 3
+-P38-impares-ascendente
+-P39-pares-descendente
+-P40-promedio-suma
+-P41-suma-200
+-P42-conversion-temperaturas
+-P43-numero-mayor

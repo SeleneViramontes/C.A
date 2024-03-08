@@ -53,6 +53,12 @@ Selene Viramontes Ureño
 - P32-numero-suma-100
 - P33-conteo-numeros
 
+## Actividad 6
+-P34-tabla-conversion
+-P35-conjetura-collatz
+-P36-tabla-multiplicar
+-P37-tabla-multiplicar-v2
+
 ## Tarea 3
 -P38-impares-ascendente
 -P39-pares-descendente

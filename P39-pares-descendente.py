@@ -1,4 +1,4 @@
-# Se desea imprimir los números pares desde 100 hasta el número que el usuario decida (n), 
+# Se desea imprimir los números pares decendentes desde 100 hasta el número que el usuario decida (n), 
 # además deberá imprimirse la suma de esos números pares. El proceso debe poder repetirse hasta que 
 # el usuario lo decida.
 

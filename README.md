@@ -76,3 +76,10 @@ Selene Viramontes Ureño
 - P47-arriba-abajo
 - P48-suma-pares-impares
 - P49-suma-numeros
+
+## Actividad 8
+- P50-factorial
+- P51-tabla-multiplicar
+- P52-tablas-multiplicar-v2
+- P53-piramide-caracter
+- P54-factorial-numeros

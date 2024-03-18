@@ -14,4 +14,4 @@ for i in range(2, renglones+1):
     suma += termino
     secuencia += f" + 1/{i}!"
 
-print(f"Salida: {secuencia}, suma: {suma:.15f}")
+print(f"Salida: {secuencia}, suma: {suma:.10f}")

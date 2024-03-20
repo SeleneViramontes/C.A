@@ -90,3 +90,10 @@ Selene Viramontes Ureño
 - P57-secuencia-numeros-1
 - P58–secuencia-numeros-2
 - P59-secuencia-terminos-1
+
+## Actividad 9
+- P60-acceder-lista
+- P61-cambiar-lista
+- P62-agregar-lista
+- P63-remover-lista
+- P64-iterar-lista

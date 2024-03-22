@@ -9,7 +9,6 @@ nums=[]
 mp=[]
 n=suma=prom=0
 
-
 while n!=99:
     n=float(input("Numero : "))
     if n>=0 and n<=10:

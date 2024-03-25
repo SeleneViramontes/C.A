@@ -104,3 +104,11 @@ Selene Viramontes Ureño
 - P67-dia-paga
 - P68-nombres-edades
 - P69-listas-aleatorios
+
+## Tarea 5
+- P70-procesar-notas
+- P71-lista-multiplica
+- P72-meses-dia-nombre
+- P73-lista-aleatorios-suma
+- P74-ciudades
+- P75-lista-impares

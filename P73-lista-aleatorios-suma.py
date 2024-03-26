@@ -14,7 +14,7 @@ for i in range(n):
     l1.append(random.randint(1,10))
     l2.append(random.randint(1,10))
 
-print(f"Lista 1: {l1}\nLista 2: {l2}")
+#print(f"Lista 1: {l1}\nLista 2: {l2}")
 
 # Sumar ambas listas si los elementos correspondientes son impares
 for num1, num2 in zip(l1, l2):

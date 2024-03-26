@@ -20,8 +20,15 @@ print("Suma de los números divisibles por 3:", suma_divisibles_por_3)
 
 # Buscar un elemento en la lista original y determinar si está presente y en qué posición
 elemento_buscar = int(input("Ingrese un número para buscar en la lista original: "))
-if elemento_buscar in numeros_impares:
-    posicion = numeros_impares.index(elemento_buscar)
+encontrado = False
+for i, num in enumerate(numeros_impares):
+    if num == elemento_buscar:
+        encontrado = True
+        posicion = i
+        break
+
+if encontrado:
     print(f"El número {elemento_buscar} está en la posición {posicion} de la lista original.")
 else:
+    # La posicion inia desde 0,1,2,3,4,n
     print(f"El número {elemento_buscar} no está en la lista original.")

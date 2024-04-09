@@ -112,3 +112,8 @@ Selene Viramontes Ureño
 - P73-lista-aleatorios-suma
 - P74-ciudades
 - P75-lista-impares
+
+## Actividad 11
+- P76–estudiante
+- P77–calificaciones
+- P78–nombres y edades

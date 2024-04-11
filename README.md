@@ -117,3 +117,10 @@ Selene Viramontes Ureño
 - P76–estudiante
 - P77–calificaciones
 - P78–nombres y edades
+
+## Actividad 12
+- P79–procesar pizza
+- P80–lista-dic-auto
+- P81-lista-dic-estudiante
+
+## Tarea 6

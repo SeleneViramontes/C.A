@@ -124,3 +124,9 @@ Selene Viramontes Ureño
 - P81-lista-dic-estudiante
 
 ## Tarea 6
+- P82-crear-acceder-diccionario
+- P83-modificar-diccionario
+- P84-agregar-diccionario
+- P85-eliminar-diccionario
+- P86-procesar-diccionario
+- P87-contar-caracteres

@@ -130,3 +130,7 @@ Selene Viramontes Ureño
 - P85-eliminar-diccionario
 - P86-procesar-diccionario
 - P87-contar-caracteres
+
+## Actividad 13
+- P88–trabajando-conjuntos
+- P89-operaciones-conjuntos

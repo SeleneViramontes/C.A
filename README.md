@@ -134,3 +134,7 @@ Selene Viramontes Ureño
 ## Actividad 13
 - P88–trabajando-conjuntos
 - P89-operaciones-conjuntos
+
+## Tarea 7
+- P90-personas
+- P91-numeros

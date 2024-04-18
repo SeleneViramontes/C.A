@@ -138,3 +138,6 @@ Selene Viramontes Ureño
 ## Tarea 7
 - P90-personas
 - P91-numeros
+
+## Examen 2
+- P92-segundo-examen-parcial

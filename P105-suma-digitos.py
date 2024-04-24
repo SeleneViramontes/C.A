@@ -1,4 +1,4 @@
-
+import os; os.system("cls")
 def sumadigitos(n):
     suma=0
     while n != 0:
@@ -9,4 +9,3 @@ def sumadigitos(n):
 
 n = int(input("Dame un número entero y sumaré sus digitos? "))
 print(f"El numero es {n} y la suma de sus digitos es {sumadigitos(n)}")
-print("Hola")

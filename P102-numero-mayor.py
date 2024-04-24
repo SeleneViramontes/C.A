@@ -21,3 +21,4 @@ if r==0:
     print("Las calificaciones son iguales")
 else:
     print(f"La calificacion mayor es {r}")
+    

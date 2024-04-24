@@ -19,3 +19,4 @@ while True:
     res = input("Deseas otra tabla (S/N)?").upper()
     if res=="N":
         break
+    

@@ -159,3 +159,9 @@ Selene Viramontes Ureño
 - P106-factorial
 - P107-calificacion-letra
 - P108-suma-rango
+
+## Tarea 8
+- P109-numero-menor
+- P110-dia-semana
+- P111-medidas-longitud
+- P112-suma-pares-impares

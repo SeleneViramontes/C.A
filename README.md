@@ -165,3 +165,15 @@ Selene Viramontes Ureño
 - P110-dia-semana
 - P111-medidas-longitud
 - P112-suma-pares-impares
+
+## Actividad 15
+- P113-suma-lista
+- P114-pares-lista
+- P115-mayor-menor
+- P116-mayores-promedio
+- P117-pares-impares
+- P118-aleatorios
+- P119-nombres
+- P120modulofunciones
+- P121-usa-funciones
+- P122-modulos-integrados

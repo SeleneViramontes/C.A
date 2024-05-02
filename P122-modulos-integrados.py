@@ -8,7 +8,7 @@ print("Sistema operativo", os.uname())
 print("Carpeta actual   ", os.getcwd())
 os.chdirt("/")
 print(os.listdiri())
-print("\nVariables de entorno :" , os.environ)
+print("\nVariables de entorno :", os.environ)
 print("\nRuta :" , os.getenv("PATH"))
 
 #Uso de alguns funciones del modulo: datetime 

@@ -182,3 +182,12 @@ Selene Viramontes Ureño
 - P123-suma-digitos-lista
 - P124-calcula-factoriales
 - P125-estadisticas-basicas
+
+## Actividad 16
+- P126-empleado1
+- P127-empleado2
+- P128-circulo
+- P129-rectangulo
+
+## Tarea 10
+- P130-articulo

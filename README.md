@@ -191,3 +191,6 @@ Selene Viramontes Ureño
 
 ## Tarea 10
 - P130-articulo
+
+## Actividad 17
+- P131-ventas

@@ -194,3 +194,6 @@ Selene Viramontes Ureño
 
 ## Actividad 17
 - P131-ventas
+
+## Examen 3
+- P132-tecer-examen-parcial

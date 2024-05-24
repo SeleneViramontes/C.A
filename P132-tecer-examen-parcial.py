@@ -74,7 +74,7 @@ categoria2.agregar_jugador(Jugador("Antonio Herrera", 2011, "Mujer", True))
 categoria3 = Categoria("Pony A", "2012/2013/2014", 700.00)
 categoria3.agregar_jugador(Jugador("Andrea Saldivar", 2012, "Mujer", True))
 categoria3.agregar_jugador(Jugador("Marissa Mijares", 2013, "Mujer", True))
-categoria3.agregar_jugador(Jugador("Diego Soto", 2014, "Mujer", False))
+categoria3.agregar_jugador(Jugador("Diana Soto", 2014, "Mujer", False))
 
 academia.agregar_categoria(categoria1)
 academia.agregar_categoria(categoria2)

@@ -43,18 +43,18 @@ class Tienda:
     def __str__(self):
         return "Tienda [Nombre: {self.nombre} Domicilio: {self, domicilio} Propietario: {self.propietario}]"
     
-    def Reporte(mitienda):
+def Reporte(mitienda):
 
-        print("\nReporte de Ventas ", mitienda)
-        print(f"Total de clientes: {len(mitienda.clientes)}") 
-        print(f"Total Ventas     : {mitienda.totalVentas()}")
-        print("\nClientes:")
-        for cliente in mitienda.clientes:
-            print(cliente)
-            for venta in cliente.ventas:
-                print(venta)
-            print(f"Total Ventas: {cliente.totalVentas():,.2f}\n")
-        print(f"\nTotal General: {mitienda.totalImporteVentas():,.21}")
+    print("\nReporte de Ventas ", mitienda)
+    print(f"Total de clientes: {len(mitienda.clientes)}") 
+    print(f"Total Ventas     : {mitienda.totalVentas()}")
+    print("\nClientes:")
+    for cliente in mitienda.clientes:
+        print(cliente)
+        for venta in cliente.ventas:
+            print(venta)
+        print(f"Total Ventas: {cliente.totalVentas():,.2f}\n")
+    print(f"\nTotal General: {mitienda.totalImporteVentas():,.21}")
 
 def LeerCliente(mitienda):
     print("Dame los datos del Cliente")
@@ -91,8 +91,8 @@ def main():
     mitienda.clientes[1].agregarVenta( venta(articulo='Pinzas', cantidad='10',precio='650.33') )
     mitienda.clientes[2].agregarVenta( venta(articulo='Thiner', cantidad='50',precio='65.00') )
     mitienda.clientes[3].agregarVenta( venta(articulo='Gelatinas', cantidad='150',precio='165.00') )
-    LeerCliente(mitienda)
-    LeerVenta(mitienda.clientes[4])
+    #LeerCliente(mitienda)
+    #LeerVenta(mitienda.clientes[4])
     Reporte(mitienda)
 
 if __name__ == "__main__":
